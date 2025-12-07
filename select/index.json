@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "夜の踊り子",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-07T15:48:00.035456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜の踊り子",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_夜の踊り子_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_夜の踊り子_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/03_夜の踊り子_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜の踊り子 - Yoru No Odoriko",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/04_夜の踊り子_-_Yoru_No_Odoriko_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜の踊り子",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_夜の踊り子_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/06_夜の踊り子_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_夜の踊り子_サカナクション.txt"
+    }
+  ]
+}
